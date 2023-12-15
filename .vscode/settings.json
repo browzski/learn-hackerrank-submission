@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cstdio": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "cl.exe",
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "C_Cpp.errorSquiggles": "disabled"
+}
